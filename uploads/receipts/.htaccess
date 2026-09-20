@@ -1,0 +1,5 @@
+Options -Indexes
+<FilesMatch "^(?!.*\.(pdf|jpg|jpeg|png|gif|webp)$)">
+    Order Allow,Deny
+    Deny from all
+</FilesMatch>

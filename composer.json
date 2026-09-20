@@ -1,0 +1,12 @@
+{
+    "name": "medicare/healthcare-system",
+    "description": "Smart Healthcare Appointment and Resource Management System",
+    "require": {
+        "phpmailer/phpmailer": "^6.9"
+    },
+    "autoload": {
+        "psr-4": {
+            "Medicare\\": "src/"
+        }
+    }
+}
