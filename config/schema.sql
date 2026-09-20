@@ -3,7 +3,7 @@
 -- Run this in phpMyAdmin or MySQL CLI
 -- ============================================================
 
-USE healthcare_db;
+
 
 -- Users table (patients, doctors, admin)
 CREATE TABLE IF NOT EXISTS users (
