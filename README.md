@@ -1,4 +1,8 @@
 # 🏥 MediCare — Smart Healthcare System
+
+# MediCare – Smart Healthcare Appointment System
+
+🌐 **Live Website:** https://smart-medicare.infinityfreeapp.com/
 ## Setup Guide for XAMPP + VS Code
 
 ---
