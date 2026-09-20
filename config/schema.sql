@@ -3,7 +3,6 @@
 -- Run this in phpMyAdmin or MySQL CLI
 -- ============================================================
 
-CREATE DATABASE IF NOT EXISTS healthcare_db CHARACTER SET utf8mb4 COLLATE utf8mb4_unicode_ci;
 USE healthcare_db;
 
 -- Users table (patients, doctors, admin)
